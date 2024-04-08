@@ -3,8 +3,15 @@
 I'm a web frontend and backend developer from Japan.<br>
 
 
-***
+
+
 -🌱 I’m currently learning React, Node,js, JavaScript and more...<br>
+
+<br>
+<br>
+<br>
+
+---
 <br>
 <br>
 ##🌳My Skills
@@ -18,5 +25,5 @@ I'm a web frontend and backend developer from Japan.<br>
 <br>
 <br>
 
-***
+---
 
